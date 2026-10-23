@@ -10,7 +10,7 @@
   <tr>
     <td width="90" align="center">
       <!-- Logo ĐH Sư phạm TP.HCM -->
-      <img src="https://upload.wikimedia.org/wikipedia/vi/2/23/Logo_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_S%C6%B0_ph%E1%BA%A1m_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh.svg" width="75" alt="HCMUE Logo" />
+      <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FTr%25C6%25B0%25E1%25BB%259Dng_%25C4%2590%25E1%25BA%25A1i_h%25E1%25BB%258Dc_S%25C6%25B0_ph%25E1%25BA%25A1m_Th%25C3%25A0nh_ph%25E1%25BB%2591_H%25E1%25BB%2593_Ch%25C3%25AD_Minh&ved=0CBcQjRxqFwoTCKC2097bz5cDFQAAAAAdAAAAABA3&opi=89978449" width="75" alt="HCMUE Logo" />
     </td>
     <td>
       <p>🏫 <b>Current Workplace:</b> Computer Science Teacher at <b>High School of Practical Education – HCMUE</b> <i>(Trường Trung học Thực hành – Đại học Sư phạm TP.HCM)</i></p>
